@@ -1,6 +1,6 @@
 # Configurations
-title:            b0
-longtitle:        b0
+title:            0xb0
+longtitle:        0xb0
 author:           Naveen
 email:            
 description: >
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://envyen.github.io'
-baseurl:          '/b0'
+baseurl:          '/0xb0'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
