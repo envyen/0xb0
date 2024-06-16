@@ -1,4 +1,4 @@
-# Configurations
+A# Configurations
 title:            "0xb0"
 longtitle:        "0xb0"
 author:           Naveen
@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://envyen.github.io'
-baseurl:          '/0xb0'
+url:              'https://0xb0.envyen.com'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
