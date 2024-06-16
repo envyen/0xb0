@@ -29,6 +29,8 @@ Jack began to monitor the stones, documenting their minute changes with meticulo
 
 ### Chapter 2: Whispers of Change
 
+![Whispers of Change](/0xb0/assets/Gemini_Generated_Image_xj44cexj44cexj44.jpg)
+
 Three years passed, and Jack’s obsession with the stones grew. He recorded every detail, noting slight shifts in color and temperature that were imperceptible to the naked eye. He brought his findings to Dr. Greaves, who listened patiently but ultimately dismissed them. The team had more pressing concerns, and Jack’s stones were a low priority.
 
 But Jack was undeterred. He spent countless nights in the lab, running tests and rechecking data. His persistence paid off when he discovered faint biochemical signals emanating from the stones, signals that were eerily similar to those produced by living organisms.
