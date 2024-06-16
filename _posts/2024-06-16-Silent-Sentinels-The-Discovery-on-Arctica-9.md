@@ -41,6 +41,8 @@ Frustrated but determined, Jack continued his research in secret. He refined his
 
 ### Chapter 3: The Breakthrough
 
+![The Breakthrough](/0xb0/assets/Gemini_Generated_Image_fmpe5hfmpe5hfmpe.jpg)
+
 It was during one of these clandestine sessions that Jack made his breakthrough. By bombarding the stones with a controlled burst of energy, he observed a reaction that could only be described as cellular growth. The stones were alive, their growth so slow that it was nearly undetectable by conventional means.
 
 Armed with this new evidence, Jack confronted Dr. Greaves once more. This time, the data was too compelling to ignore. The team leader agreed to a full-scale investigation, dedicating resources and personnel to verify Jack’s findings.
