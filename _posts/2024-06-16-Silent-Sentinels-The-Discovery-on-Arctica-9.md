@@ -4,6 +4,7 @@ author: Naveen
 date: 2024-06-16
 category: short-story
 layout: post
+cover: /assets/images/Gemini_Generated_Image_xj44cdxj44cdxj44.jpg
 ---
 
 ### Introduction
@@ -15,6 +16,8 @@ Led by the esteemed Dr. Harold Greaves, the team faced harsh conditions, relentl
 "Silent Sentinels: The Discovery on Arctica-9" is a tale of perseverance, the thrill of scientific discovery, and the profound implications of finding life beyond Earth. Follow the journey of these brave scientists as they unravel the mysteries of the universe, one stone at a time.
 
 ### Chapter 1: The Icy Frontier
+
+![The Icy Frontier](/assets/images/Gemini_Generated_Image_69t67g69t67g69t6.jpg)
 
 Dr. Harold Greaves stood on the snowy expanse of Arctica-9, his breath crystallizing in the frigid air. For over a decade, his team of scientists had scoured this icy wasteland, driven by rumors of meteors that carried the seeds of alien life. The landscape was barren and unforgiving, a sea of white broken only by the jagged peaks of ancient glaciers and the occasional dark crater marking where celestial bodies had once crashed to the surface.
 
