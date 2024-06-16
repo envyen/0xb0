@@ -4,7 +4,7 @@ author: Naveen
 date: 2024-06-16
 category: short-story
 layout: post
-cover: /0xb0/assets/Gemini_Generated_Image_xj44cdxj44cdxj44.jpg
+cover: /assets/Gemini_Generated_Image_xj44cdxj44cdxj44.jpg
 ---
 
 ### Introduction
@@ -17,7 +17,7 @@ Led by the esteemed Dr. Harold Greaves, the team faced harsh conditions, relentl
 
 ### Chapter 1: The Icy Frontier
 
-![The Icy Frontier](/0xb0/assets/Gemini_Generated_Image_69t67g69t67g69t6.jpg)
+![The Icy Frontier](/assets/Gemini_Generated_Image_69t67g69t67g69t6.jpg)
 
 Dr. Harold Greaves stood on the snowy expanse of Arctica-9, his breath crystallizing in the frigid air. For over a decade, his team of scientists had scoured this icy wasteland, driven by rumors of meteors that carried the seeds of alien life. The landscape was barren and unforgiving, a sea of white broken only by the jagged peaks of ancient glaciers and the occasional dark crater marking where celestial bodies had once crashed to the surface.
 
@@ -29,7 +29,7 @@ Jack began to monitor the stones, documenting their minute changes with meticulo
 
 ### Chapter 2: Whispers of Change
 
-![Whispers of Change](/0xb0/assets/Gemini_Generated_Image_xj44cexj44cexj44.jpg)
+![Whispers of Change](/assets/Gemini_Generated_Image_xj44cexj44cexj44.jpg)
 
 Three years passed, and Jack’s obsession with the stones grew. He recorded every detail, noting slight shifts in color and temperature that were imperceptible to the naked eye. He brought his findings to Dr. Greaves, who listened patiently but ultimately dismissed them. The team had more pressing concerns, and Jack’s stones were a low priority.
 
@@ -41,7 +41,7 @@ Frustrated but determined, Jack continued his research in secret. He refined his
 
 ### Chapter 3: The Breakthrough
 
-![The Breakthrough](/0xb0/assets/Gemini_Generated_Image_fmpe5hfmpe5hfmpe.jpg)
+![The Breakthrough](/assets/Gemini_Generated_Image_fmpe5hfmpe5hfmpe.jpg)
 
 It was during one of these clandestine sessions that Jack made his breakthrough. By bombarding the stones with a controlled burst of energy, he observed a reaction that could only be described as cellular growth. The stones were alive, their growth so slow that it was nearly undetectable by conventional means.
 
@@ -51,7 +51,7 @@ The lab buzzed with activity as tests were repeated and new experiments devised.
 
 ### Chapter 4: The Awakening
 
-![The Awakening](/0xb0/assets/Gemini_Generated_Image_3m43s23m43s23m43.jpg)
+![The Awakening](/assets/Gemini_Generated_Image_3m43s23m43s23m43.jpg)
 
 As the weeks passed, the true nature of the stones began to unfold. They were not just life forms, but a sentient species adapted to the extreme cold and low energy conditions of the planet. Their slow growth was a survival mechanism, a way to conserve energy over millennia.
 
