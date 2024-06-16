@@ -51,6 +51,8 @@ The lab buzzed with activity as tests were repeated and new experiments devised.
 
 ### Chapter 4: The Awakening
 
+![The Awakening](/0xb0/assets/Gemini_Generated_Image_3m43s23m43s23m43.jpg)
+
 As the weeks passed, the true nature of the stones began to unfold. They were not just life forms, but a sentient species adapted to the extreme cold and low energy conditions of the planet. Their slow growth was a survival mechanism, a way to conserve energy over millennia.
 
 The realization was both thrilling and humbling. The discovery of extraterrestrial life was the culmination of years of hard work and unyielding belief. Jack Turner, the once-dismissed junior scientist, was now at the forefront of one of the greatest scientific discoveries of the century.
